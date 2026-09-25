@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- FoodGo Green Theme Colors -->
+    <color name="primary">#006B2C</color>
+    <color name="primary_container">#00873A</color>
+    <color name="primary_light">#E6F7EF</color>
+    <color name="secondary_container">#6BFF8F</color>
+    <color name="on_secondary_container">#007432</color>
+
+    <color name="text_primary">#111C2D</color>
+    <color name="text_secondary">#5A6A59</color>
+    <color name="text_outline">#6E7B6C</color>
+    <color name="bg_surface">#F4F6FB</color>
+    <color name="surface_container">#E8EEF9</color>
+    <color name="surface_container_low">#F0F3FF</color>
+    <color name="surface_card">#FFFFFF</color>
+
+    <color name="star_amber">#FFB300</color>
+    <color name="error_red">#BA1A1A</color>
+</resources>
